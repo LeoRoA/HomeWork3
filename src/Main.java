@@ -3,9 +3,9 @@ public class Main {
         // Задача 1
         System.out.println("Задача 1:");
         int varInt = 0;
-        System.out.println("Значение переменной с типом int равно"+ varInt );
+        System.out.println("Значение переменной с типом int равно"+ varInt);
         byte varByte = -128;
-        System.out.println("Значение переменной с типом byte  равно"+ varByte );
+        System.out.println("Значение переменной с типом byte  равно"+ varByte);
         short varShort = - 32768;
         System.out.println("Значение переменной с типом short равно "+ varShort);
         long varLong = -92233L;
